@@ -1,0 +1,28 @@
+PLINK v2.00a2.3 64-bit (24 Jan 2020)
+Options in effect:
+  --bgen MAGEE_method2/inst/extdata/geno.bgen ref-first
+  --make-pgen
+  --out MAGEE_method2/inst/extdata/geno
+  --sample MAGEE_method2/inst/extdata/geno.sample
+
+Hostname: LAPTOP-MRQ21C7G
+Working directory: C:\Users\duytp\Desktop
+Start time: Wed Oct 14 07:31:49 2020
+
+Random number seed: 1602678709
+16233 MiB RAM detected; reserving 8116 MiB for main workspace.
+Using up to 12 threads (change this with --threads).
+--bgen: 100 variants detected, format v1.2.
+400 samples imported from .sample file to
+MAGEE_method2/inst/extdata/geno-temporary.psam .
+--bgen: MAGEE_method2/inst/extdata/geno-temporary.pgen +
+MAGEE_method2/inst/extdata/geno-temporary.pvar written.
+400 samples (0 females, 400 males; 400 founders) loaded from
+MAGEE_method2/inst/extdata/geno-temporary.psam.
+100 variants loaded from MAGEE_method2/inst/extdata/geno-temporary.pvar.
+1 binary phenotype loaded (0 cases, 400 controls).
+Writing MAGEE_method2/inst/extdata/geno.psam ... done.
+Writing MAGEE_method2/inst/extdata/geno.pvar ... done.
+Writing MAGEE_method2/inst/extdata/geno.pgen ... done.
+
+End time: Wed Oct 14 07:31:49 2020
